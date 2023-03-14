@@ -1,4 +1,4 @@
-# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+# This is a copy from https://github.com/microsoft/project-html-website.git from testing purposes
 
 | Language | Platform | Author |
 | -------- | --------|--------|
